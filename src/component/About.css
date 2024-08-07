@@ -20614,6 +20614,19 @@ body h6 {
     font-weight: 400
 }
 
+
+@media (max-width:768px){
+.response-button{
+   display: flex;
+   flex-direction: column;
+}
+
+.button-2-default{
+    width:210px;
+}
+}
+
+
 .gallery-item .gallery-content,
 .video-overlay::after,
 .video-icon {

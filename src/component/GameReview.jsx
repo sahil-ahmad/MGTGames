@@ -103,12 +103,12 @@ car roulette, head & tail, Ludo, color game, color prediction, animal game,"
             </div>
 
           </div>
-          <div className="row ">
+          <div  className=" response-button">
             <div className="col-3 mt-5">
-              <a href="" className="default-button"><span>Download ludo <FaAngleRight /></span> </a>
+              <a href="" className="default-button button-2-default"><span>Download ludo <FaAngleRight /> </span> </a>
             </div>
             <div className="col-3 mt-5">
-              <a href="" className="default-button"><span> colour prediction <FaAngleRight /></span> </a>
+              <a href="" className="default-button button-2-default"><span> colour prediction <FaAngleRight /> </span> </a>
             </div>
           </div>
         </div>
